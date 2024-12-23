@@ -7,6 +7,7 @@ This repository contains all the code files and implementations developed during
 - Arrays
 - Linked Lists (Singly, Doubly, Circular)
 - Stacks and Queues
+- Heap
 - Trees (Binary Trees, Binary Search Trees)
 - Graphs (DFS, BFS, Shortest Paths)
 - and some applications like infix to postfix
